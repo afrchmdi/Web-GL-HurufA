@@ -1,6 +1,6 @@
 # Web-GL-HurufA
 
-- Penugasan Mata Kuliah Grafkom -
+__Penugasan Mata Kuliah Grafkom__
 
 
 Membuat Huruf A menggunakan Web GL
